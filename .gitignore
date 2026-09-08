@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime data (local cache — don't push personal history)
+data/
+output/
+
+# OS/editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
