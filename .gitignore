@@ -12,4 +12,7 @@ output/
 .DS_Store
 *.swp
 .idea/
-.vscode/
+.vscode/.env
+*.key
+*.pem
+node_modules/
