@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Money Automation — The Forge ⚗️
 
 Three small engines that help you find and produce ways to earn online,
