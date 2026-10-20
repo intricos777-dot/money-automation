@@ -85,10 +85,10 @@ Run the aggregator daily and the content quill on a schedule:
 
 ```cron
 # every day at 8am — scan for opportunities
-0 8 * * * cd /home/sin/money-automation && .venv/bin/python aggregator.py >/dev/null 2>&1
+0 8 * * * cd /home/livings/money-automation && .venv/bin/python aggregator.py >/dev/null 2>&1
 
 # every Monday — generate 5 product drafts for the week
-0 9 * * 1 cd /home/sin/money-automation && .venv/bin/python content_gen.py "your niche" --mode product --variations 5 >/dev/null 2>&1
+0 9 * * 1 cd /home/livings/money-automation && .venv/bin/python content_gen.py "your niche" --mode product --variations 5 >/dev/null 2>&1
 ```
 
 ## House rules ♄
